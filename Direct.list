@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,bsubcn01.cc
 # OrbStack代理
 DOMAIN-SUFFIX,orb.local
 
+# H3C 路由管理地址
+DOMAIN-SUFFIX,moshujia.cn
+
