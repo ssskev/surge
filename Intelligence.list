@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareperf.com
+DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,coze.com
@@ -174,6 +175,7 @@ DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,you.com
 
 # IP-ASN 类型
