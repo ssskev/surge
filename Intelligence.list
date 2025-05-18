@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,dify.ai
@@ -97,6 +98,7 @@ DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,f7tk.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,gist.build
 DOMAIN-SUFFIX,githubcopilot.com
@@ -130,6 +132,7 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,n8n.io
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,oaistatic.com
