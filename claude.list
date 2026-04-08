@@ -2,7 +2,13 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,intercomcdn.com
+
